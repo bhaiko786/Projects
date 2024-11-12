@@ -1,71 +1,19 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-	<title>File Renamer</title>
-	<style>
-		body {
-			font-family: Arial, sans-serif;
-		}
-		.container {
-			width: 50%;
-			margin: 40px auto;
-			padding: 20px;
-			background-color: #f0f0f0;
-			border: 1px solid #ddd;
-			border-radius: 10px;
-			box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-		}
-		.input-field {
-			margin-bottom: 20px;
-		}
-		.input-field label {
-			display: block;
-			margin-bottom: 10px;
-		}
-		.input-field input {
-			width: 100%;
-			padding: 10px;
-			border: 1px solid #ccc;
-			border-radius: 5px;
-		}
-		.button {
-			background-color: #4CAF50;
-			color: #fff;
-			padding: 10px 20px;
-			border: none;
-			border-radius: 5px;
-			cursor: pointer;
-		}
-		.button:hover {
-			background-color: #3e8e41;
-		}
-	</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-Do App</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-	<div class="container">
-		<h2>File Renamer</h2>
-		<form id="rename-form">
-			<div class="input-field">
-				<label for="dirPath">Directory Path:</label>
-				<input type="text" id="dirPath" name="dirPath">
-			</div>
-			<div class="input-field">
-				<label for="newName">New Name:</label>
-				<input type="text" id="newName" name="newName">
-			</div>
-			<div class="button" onclick="renameFiles()">Rename Files</div>
-		</form>
-		<div id="result"></div>
-	</div>
+    <div class="container">
+        <h1>To-Do App</h1>
+        <input type="text" id="task-input" placeholder="Add new task">
+        <button id="add-task-btn">Add Task</button>
+        <ul id="task-list"></ul>
+    </div>
 
-	<script>
-		function renameFiles() {
-			const dirPath = document.getElementById('dirPath').value;
-			const newName = document.getElementById('newName').value;
-			// Call the Python script here using fetch or XMLHttpRequest
-			// For now, just display a success message
-			document.getElementById('result').innerHTML = 'Files renamed successfully!';
-		}
-	</script>
+    <script src="script.js"></script>
 </body>
-</
+</html>
