@@ -1,0 +1,277 @@
+2024-11-12 04:21:33,749 - ERROR - Email failed to send to sachinnarvariya209@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21177e5a9ebsm81233855ad.198 - gsmtp')
+2024-11-12 04:21:35,733 - ERROR - Email failed to send to hemlatamittal14@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-72407a2367dsm9720231b3a.169 - gsmtp')
+2024-11-12 04:21:38,509 - ERROR - Email failed to send to benjamindasdavid@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-72407a56a30sm10036963b3a.188 - gsmtp')
+2024-11-12 04:21:40,663 - ERROR - Email failed to send to ramelectronice@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21177e6a731sm80338965ad.236 - gsmtp')
+2024-11-12 04:21:47,079 - ERROR - Email failed to send to harshsagarhs@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21177ddeeedsm80742775ad.80 - gsmtp')
+2024-11-12 04:21:53,144 - ERROR - Email failed to send to arunsinhajrd@rediffmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21177e458b2sm80947245ad.167 - gsmtp')
+2024-11-12 04:21:55,121 - ERROR - Email failed to send to dhananjaysinghrana29@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21177dc804esm81623505ad.31 - gsmtp')
+2024-11-12 04:21:57,102 - ERROR - Email failed to send to shraddhatiwari317@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-72407a187f4sm10040051b3a.144 - gsmtp')
+2024-11-12 04:33:52,795 - ERROR - Email failed to send to sachinnarvariya209@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21177ddf7adsm81528515ad.100 - gsmtp')
+2024-11-12 04:33:54,699 - ERROR - Email failed to send to hemlatamittal14@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21177dc9d2fsm81158395ad.8 - gsmtp')
+2024-11-12 04:33:57,651 - ERROR - Email failed to send to benjamindasdavid@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2e9b2b4cd58sm7091300a91.20 - gsmtp')
+2024-11-12 04:34:00,016 - ERROR - Email failed to send to ramelectronice@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2e9a5fd0c74sm9194988a91.32 - gsmtp')
+2024-11-12 04:34:05,443 - ERROR - Email failed to send to harshsagarhs@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21177e45ef0sm81020195ad.153 - gsmtp')
+2024-11-12 04:34:07,311 - ERROR - Email failed to send to arunsinhajrd@rediffmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-72407a56048sm9708279b3a.174 - gsmtp')
+2024-11-12 04:34:37,575 - ERROR - Email failed to send to sachinnarvariya209@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21177ddf151sm81439975ad.94 - gsmtp')
+2024-11-12 04:34:40,176 - ERROR - Email failed to send to hemlatamittal14@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2e9c1e705bfsm4974758a91.20 - gsmtp')
+2024-11-12 04:34:42,064 - ERROR - Email failed to send to benjamindasdavid@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21177e86e30sm79331575ad.281 - gsmtp')
+2024-11-12 04:34:44,868 - ERROR - Email failed to send to ramelectronice@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2e9c3c75adcsm4727659a91.2 - gsmtp')
+2024-11-12 04:34:47,795 - ERROR - Email failed to send to harshsagarhs@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2e9a5f5e57fsm9213288a91.14 - gsmtp')
+2024-11-12 04:34:49,723 - ERROR - Email failed to send to arunsinhajrd@rediffmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7240785ffb6sm9767372b3a.40 - gsmtp')
+2024-11-12 04:34:54,147 - ERROR - Email failed to send to dhananjaysinghrana29@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7240799bb02sm9960024b3a.101 - gsmtp')
+2024-11-12 04:34:56,106 - ERROR - Email failed to send to shraddhatiwari317@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2e99a62b9bfsm11284730a91.49 - gsmtp')
+2024-11-12 04:34:58,324 - ERROR - Email failed to send to skm_20042001@yahoo.co.in: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2e99a62bd39sm11129652a91.48 - gsmtp')
+2024-11-12 04:35:00,394 - ERROR - Email failed to send to mukesh_chouhan@live.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21177e59c3asm81313385ad.194 - gsmtp')
+2024-11-12 04:35:07,037 - ERROR - Email failed to send to ritesh.mourya975@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7240799babesm9611132b3a.111 - gsmtp')
+2024-11-12 04:35:09,002 - ERROR - Email failed to send to surendraps007@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21177e59dfesm81269335ad.181 - gsmtp')
+2024-11-12 04:35:11,640 - ERROR - Email failed to send to tarunpatidar28@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21177e59dfesm81269885ad.181 - gsmtp')
+2024-11-12 04:35:13,562 - ERROR - Email failed to send to arvindpatel019@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21177ddd621sm81139985ad.61 - gsmtp')
+2024-11-12 04:35:15,756 - ERROR - Email failed to send to bgt481001@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-72407a1a571sm9759823b3a.165 - gsmtp')
+2024-11-12 04:35:17,644 - ERROR - Email failed to send to gupta.princy98@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21177dde241sm81579925ad.81 - gsmtp')
+2024-11-12 04:35:23,560 - ERROR - Email failed to send to mgoyal586@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21177dc82e8sm81690725ad.49 - gsmtp')
+2024-11-12 04:35:27,007 - ERROR - Email failed to send to padma.mitsgwl@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-724079a4126sm10000558b3a.102 - gsmtp')
+2024-11-12 04:35:31,834 - ERROR - Email failed to send to 0ankitpandey01@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-724078a7c1csm9714425b3a.54 - gsmtp')
+2024-11-12 04:35:33,810 - ERROR - Email failed to send to ngroyal21@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21177e69daesm80825505ad.228 - gsmtp')
+2024-11-12 04:35:36,409 - ERROR - Email failed to send to yashikagoyal98@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2e99a5f8df7sm11330116a91.41 - gsmtp')
+2024-11-12 04:35:38,394 - ERROR - Email failed to send to s_mehta63@yahoo.co.in: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2e99a5fce7csm11260548a91.39 - gsmtp')
+2024-11-12 04:35:40,329 - ERROR - Email failed to send to pansaripradeep1@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21177e58357sm81322005ad.193 - gsmtp')
+2024-11-12 04:35:42,242 - ERROR - Email failed to send to sbhindiya@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21177e4168bsm80709795ad.150 - gsmtp')
+2024-11-12 04:35:44,175 - ERROR - Email failed to send to pt_xavier@yahoo.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-7f41f48a76bsm9125016a12.7 - gsmtp')
+2024-11-12 04:35:46,073 - ERROR - Email failed to send to sanjaymalviya848@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-7f41f489186sm9026291a12.9 - gsmtp')
+2024-11-12 04:35:47,932 - ERROR - Email failed to send to tiwarisuraj136@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21177e8752asm79265465ad.282 - gsmtp')
+2024-11-12 04:35:49,843 - ERROR - Email failed to send to jaiswal_sanjay04@rediffmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-7f41f65e4besm7656290a12.72 - gsmtp')
+2024-11-12 04:35:51,928 - ERROR - Email failed to send to niharika211deshmukh@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21177dc8c35sm81500575ad.56 - gsmtp')
+2024-11-12 04:35:54,576 - ERROR - Email failed to send to vishwakarmaa025@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-724078a8a30sm9630302b3a.53 - gsmtp')
+2024-11-12 04:35:56,796 - ERROR - Email failed to send to jayswalarpit@yahoo.in: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21177e44807sm81445875ad.155 - gsmtp')
+2024-11-12 04:35:58,677 - ERROR - Email failed to send to sanjaymasare7@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21177e79efasm81750905ad.259 - gsmtp')
+2024-11-12 04:36:00,574 - ERROR - Email failed to send to shwetapatidar03@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21177de041dsm80719605ad.103 - gsmtp')
+2024-11-12 04:36:03,195 - ERROR - Email failed to send to tn.lala100@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-72407860aa5sm9587482b3a.32 - gsmtp')
+2024-11-12 04:36:05,159 - ERROR - Email failed to send to swatijayswal1998@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21177e413aesm79603515ad.123 - gsmtp')
+2024-11-12 04:36:07,105 - ERROR - Email failed to send to tiwarishivam888@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21177e6a393sm81705045ad.243 - gsmtp')
+2024-11-12 04:36:08,962 - ERROR - Email failed to send to whitebabablack@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21177dde2e1sm80589925ad.76 - gsmtp')
+2024-11-12 04:36:10,839 - ERROR - Email failed to send to yashlotan1997@yahoo.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-72407a20347sm9777487b3a.160 - gsmtp')
+2024-11-12 04:36:13,511 - ERROR - Email failed to send to priya1397@rediffmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21177e41480sm81690515ad.116 - gsmtp')
+2024-11-12 04:36:16,192 - ERROR - Email failed to send to ungtng@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-724078a7d9esm10002060b3a.66 - gsmtp')
+2024-11-12 04:36:18,171 - ERROR - Email failed to send to jitendra.bhaware@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2e99a541cfbsm11269088a91.18 - gsmtp')
+2024-11-12 04:36:21,148 - ERROR - Email failed to send to enoskerketta1221@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2e9a5fe7125sm9230220a91.43 - gsmtp')
+2024-11-12 04:36:23,479 - ERROR - Email failed to send to prakash.banjara777@rediffmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-7f41f5dee5asm7758180a12.37 - gsmtp')
+2024-11-12 04:36:27,203 - ERROR - Email failed to send to singhhd928@yahoo.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21177dc8354sm81279025ad.4 - gsmtp')
+2024-11-12 04:36:30,169 - ERROR - Email failed to send to pavan@rediffmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21177dc9eb9sm80848265ad.23 - gsmtp')
+2024-11-12 04:36:40,504 - ERROR - Email failed to send to sachinnarvariya209@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,505 - ERROR - Email failed to send to hemlatamittal14@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,506 - ERROR - Email failed to send to benjamindasdavid@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,507 - ERROR - Email failed to send to ramelectronice@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,508 - ERROR - Email failed to send to harshsagarhs@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,508 - ERROR - Email failed to send to arunsinhajrd@rediffmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,509 - ERROR - Email failed to send to dhananjaysinghrana29@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,509 - ERROR - Email failed to send to shraddhatiwari317@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,510 - ERROR - Email failed to send to skm_20042001@yahoo.co.in: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,511 - ERROR - Email failed to send to mukesh_chouhan@live.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,512 - ERROR - Email failed to send to ritesh.mourya975@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,512 - ERROR - Email failed to send to surendraps007@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,513 - ERROR - Email failed to send to tarunpatidar28@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,514 - ERROR - Email failed to send to arvindpatel019@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,514 - ERROR - Email failed to send to bgt481001@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,515 - ERROR - Email failed to send to gupta.princy98@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,516 - ERROR - Email failed to send to mgoyal586@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,517 - ERROR - Email failed to send to padma.mitsgwl@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,517 - ERROR - Email failed to send to 0ankitpandey01@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,518 - ERROR - Email failed to send to ngroyal21@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,519 - ERROR - Email failed to send to yashikagoyal98@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,519 - ERROR - Email failed to send to s_mehta63@yahoo.co.in: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,520 - ERROR - Email failed to send to pansaripradeep1@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,521 - ERROR - Email failed to send to sbhindiya@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,521 - ERROR - Email failed to send to pt_xavier@yahoo.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,522 - ERROR - Email failed to send to sanjaymalviya848@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,522 - ERROR - Email failed to send to tiwarisuraj136@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,523 - ERROR - Email failed to send to jaiswal_sanjay04@rediffmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,524 - ERROR - Email failed to send to niharika211deshmukh@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,524 - ERROR - Email failed to send to vishwakarmaa025@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,525 - ERROR - Email failed to send to jayswalarpit@yahoo.in: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,525 - ERROR - Email failed to send to sanjaymasare7@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,526 - ERROR - Email failed to send to shwetapatidar03@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,527 - ERROR - Email failed to send to tn.lala100@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,527 - ERROR - Email failed to send to swatijayswal1998@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,528 - ERROR - Email failed to send to tiwarishivam888@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,529 - ERROR - Email failed to send to whitebabablack@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,529 - ERROR - Email failed to send to yashlotan1997@yahoo.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,530 - ERROR - Email failed to send to priya1397@rediffmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,530 - ERROR - Email failed to send to ungtng@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,531 - ERROR - Email failed to send to jitendra.bhaware@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,531 - ERROR - Email failed to send to enoskerketta1221@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,532 - ERROR - Email failed to send to prakash.banjara777@rediffmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,532 - ERROR - Email failed to send to singhhd928@yahoo.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,532 - ERROR - Email failed to send to pavan@rediffmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,533 - ERROR - Email failed to send to naim786007@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,533 - ERROR - Email failed to send to mishragaurav746@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,534 - ERROR - Email failed to send to sahubrothers1@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,534 - ERROR - Email failed to send to minakshibagde97@rediffmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,535 - ERROR - Email failed to send to sonampatidar294@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,535 - ERROR - Email failed to send to satendrakulaste2015@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,536 - ERROR - Email failed to send to dikshamultai@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,536 - ERROR - Email failed to send to neelam2012@rediffmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,537 - ERROR - Email failed to send to arungupta.gupta88@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,537 - ERROR - Email failed to send to ranagaurav735@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,538 - ERROR - Email failed to send to saad.hidayat@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,538 - ERROR - Email failed to send to jainshreemponline@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,539 - ERROR - Email failed to send to sainimds09@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,539 - ERROR - Email failed to send to ms.vineekushwaha17@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,540 - ERROR - Email failed to send to roshan.rp47@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,540 - ERROR - Email failed to send to jaiswal_sanjay04@yahoo.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,541 - ERROR - Email failed to send to mahicybersatna@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,541 - ERROR - Email failed to send to kapilpatidar85@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,542 - ERROR - Email failed to send to sahumponlinebichhiya@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,542 - ERROR - Email failed to send to pmgoyal9523@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,543 - ERROR - Email failed to send to bhaskar20011997@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,543 - ERROR - Email failed to send to baigalalji@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,544 - ERROR - Email failed to send to pandey.ashish884@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,544 - ERROR - Email failed to send to anuragsoni.bb1@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,545 - ERROR - Email failed to send to pragyapancholi21@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,545 - ERROR - Email failed to send to buddhsensingh420@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,546 - ERROR - Email failed to send to prerana2705sahare@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,546 - ERROR - Email failed to send to sachinshukla963@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,546 - ERROR - Email failed to send to patel25.ap@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,547 - ERROR - Email failed to send to paliwalakshita2@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,547 - ERROR - Email failed to send to priyapetheker2015@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,548 - ERROR - Email failed to send to hariom2002markam@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,548 - ERROR - Email failed to send to rkt2056@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,549 - ERROR - Email failed to send to yashlegend1757@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,549 - ERROR - Email failed to send to umakantgarg786@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,549 - ERROR - Email failed to send to ayushiash5@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,550 - ERROR - Email failed to send to yashvardhanchaturvedi00@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,550 - ERROR - Email failed to send to porwalsanskar@yahoo.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,551 - ERROR - Email failed to send to gar71189131@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,551 - ERROR - Email failed to send to upalod@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,552 - ERROR - Email failed to send to hariomahirvar2015@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,552 - ERROR - Email failed to send to ayushiganawdiya8@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,553 - ERROR - Email failed to send to chotubansal121@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,553 - ERROR - Email failed to send to shaileshkumarvajpayee7@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,554 - ERROR - Email failed to send to ankitrathore1143@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,554 - ERROR - Email failed to send to harshal.gurjar402@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,555 - ERROR - Email failed to send to hrishabh.m96@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,555 - ERROR - Email failed to send to abhichandrol@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,555 - ERROR - Email failed to send to rp9551566@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,556 - ERROR - Email failed to send to jitendra.pamnani@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,556 - ERROR - Email failed to send to fairymadan@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,557 - ERROR - Email failed to send to tripathiyogendra98@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,557 - ERROR - Email failed to send to shubhampatidar45540@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:40,558 - ERROR - Email failed to send to rupesh.bhaware95@gamil.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,204 - ERROR - Email failed to send to sachinnarvariya209@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,204 - ERROR - Email failed to send to hemlatamittal14@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,205 - ERROR - Email failed to send to benjamindasdavid@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,206 - ERROR - Email failed to send to ramelectronice@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,206 - ERROR - Email failed to send to harshsagarhs@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,207 - ERROR - Email failed to send to arunsinhajrd@rediffmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,208 - ERROR - Email failed to send to dhananjaysinghrana29@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,208 - ERROR - Email failed to send to shraddhatiwari317@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,209 - ERROR - Email failed to send to skm_20042001@yahoo.co.in: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,209 - ERROR - Email failed to send to mukesh_chouhan@live.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,210 - ERROR - Email failed to send to ritesh.mourya975@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,210 - ERROR - Email failed to send to surendraps007@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,211 - ERROR - Email failed to send to tarunpatidar28@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,212 - ERROR - Email failed to send to arvindpatel019@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,212 - ERROR - Email failed to send to bgt481001@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,213 - ERROR - Email failed to send to gupta.princy98@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,213 - ERROR - Email failed to send to mgoyal586@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,214 - ERROR - Email failed to send to padma.mitsgwl@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,214 - ERROR - Email failed to send to 0ankitpandey01@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,214 - ERROR - Email failed to send to ngroyal21@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,215 - ERROR - Email failed to send to yashikagoyal98@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,215 - ERROR - Email failed to send to s_mehta63@yahoo.co.in: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,216 - ERROR - Email failed to send to pansaripradeep1@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,216 - ERROR - Email failed to send to sbhindiya@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,217 - ERROR - Email failed to send to pt_xavier@yahoo.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,217 - ERROR - Email failed to send to sanjaymalviya848@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,217 - ERROR - Email failed to send to tiwarisuraj136@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,218 - ERROR - Email failed to send to jaiswal_sanjay04@rediffmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,219 - ERROR - Email failed to send to niharika211deshmukh@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,221 - ERROR - Email failed to send to vishwakarmaa025@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,222 - ERROR - Email failed to send to jayswalarpit@yahoo.in: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,222 - ERROR - Email failed to send to sanjaymasare7@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,223 - ERROR - Email failed to send to shwetapatidar03@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,223 - ERROR - Email failed to send to tn.lala100@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,224 - ERROR - Email failed to send to swatijayswal1998@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,224 - ERROR - Email failed to send to tiwarishivam888@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,225 - ERROR - Email failed to send to whitebabablack@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,225 - ERROR - Email failed to send to yashlotan1997@yahoo.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,226 - ERROR - Email failed to send to priya1397@rediffmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,226 - ERROR - Email failed to send to ungtng@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,227 - ERROR - Email failed to send to jitendra.bhaware@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,227 - ERROR - Email failed to send to enoskerketta1221@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,228 - ERROR - Email failed to send to prakash.banjara777@rediffmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,228 - ERROR - Email failed to send to singhhd928@yahoo.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,229 - ERROR - Email failed to send to pavan@rediffmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,229 - ERROR - Email failed to send to naim786007@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,229 - ERROR - Email failed to send to mishragaurav746@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,230 - ERROR - Email failed to send to sahubrothers1@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,230 - ERROR - Email failed to send to minakshibagde97@rediffmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,231 - ERROR - Email failed to send to sonampatidar294@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,231 - ERROR - Email failed to send to satendrakulaste2015@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,232 - ERROR - Email failed to send to dikshamultai@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,232 - ERROR - Email failed to send to neelam2012@rediffmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,232 - ERROR - Email failed to send to arungupta.gupta88@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,233 - ERROR - Email failed to send to ranagaurav735@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,233 - ERROR - Email failed to send to saad.hidayat@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,234 - ERROR - Email failed to send to jainshreemponline@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,234 - ERROR - Email failed to send to sainimds09@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,235 - ERROR - Email failed to send to ms.vineekushwaha17@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,235 - ERROR - Email failed to send to roshan.rp47@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,236 - ERROR - Email failed to send to jaiswal_sanjay04@yahoo.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,236 - ERROR - Email failed to send to mahicybersatna@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,237 - ERROR - Email failed to send to kapilpatidar85@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,237 - ERROR - Email failed to send to sahumponlinebichhiya@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,238 - ERROR - Email failed to send to pmgoyal9523@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,238 - ERROR - Email failed to send to bhaskar20011997@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,239 - ERROR - Email failed to send to baigalalji@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,239 - ERROR - Email failed to send to pandey.ashish884@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,240 - ERROR - Email failed to send to anuragsoni.bb1@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,240 - ERROR - Email failed to send to pragyapancholi21@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,240 - ERROR - Email failed to send to buddhsensingh420@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,241 - ERROR - Email failed to send to prerana2705sahare@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,241 - ERROR - Email failed to send to sachinshukla963@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,242 - ERROR - Email failed to send to patel25.ap@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,242 - ERROR - Email failed to send to paliwalakshita2@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,243 - ERROR - Email failed to send to priyapetheker2015@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,243 - ERROR - Email failed to send to hariom2002markam@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,244 - ERROR - Email failed to send to rkt2056@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,244 - ERROR - Email failed to send to yashlegend1757@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,245 - ERROR - Email failed to send to umakantgarg786@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,245 - ERROR - Email failed to send to ayushiash5@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,246 - ERROR - Email failed to send to yashvardhanchaturvedi00@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,246 - ERROR - Email failed to send to porwalsanskar@yahoo.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,246 - ERROR - Email failed to send to gar71189131@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,247 - ERROR - Email failed to send to upalod@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,247 - ERROR - Email failed to send to hariomahirvar2015@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,248 - ERROR - Email failed to send to ayushiganawdiya8@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,248 - ERROR - Email failed to send to chotubansal121@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,249 - ERROR - Email failed to send to shaileshkumarvajpayee7@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,249 - ERROR - Email failed to send to ankitrathore1143@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,250 - ERROR - Email failed to send to harshal.gurjar402@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,251 - ERROR - Email failed to send to hrishabh.m96@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,251 - ERROR - Email failed to send to abhichandrol@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,252 - ERROR - Email failed to send to rp9551566@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,252 - ERROR - Email failed to send to jitendra.pamnani@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,253 - ERROR - Email failed to send to fairymadan@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,253 - ERROR - Email failed to send to tripathiyogendra98@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,254 - ERROR - Email failed to send to shubhampatidar45540@gmail.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:36:55,254 - ERROR - Email failed to send to rupesh.bhaware95@gamil.com: [Errno 8] nodename nor servname provided, or not known
+2024-11-12 04:39:59,167 - ERROR - Email failed to send to sachinnarvariya209@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-7f41f5ba05asm9261577a12.27 - gsmtp')
+2024-11-12 04:40:02,661 - ERROR - Email failed to send to hemlatamittal14@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-7f41f4884b2sm9106178a12.5 - gsmtp')
+2024-11-12 04:40:04,659 - ERROR - Email failed to send to benjamindasdavid@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7240799bacbsm10042905b3a.108 - gsmtp')
+2024-11-12 04:40:07,482 - ERROR - Email failed to send to ramelectronice@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-72407862826sm9737461b3a.15 - gsmtp')
+2024-11-12 04:40:12,028 - ERROR - Email failed to send to harshsagarhs@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-7f41f67f079sm9119146a12.85 - gsmtp')
+2024-11-12 04:40:15,428 - ERROR - Email failed to send to arunsinhajrd@rediffmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2e99a5fed81sm11223394a91.36 - gsmtp')
+2024-11-12 04:40:18,782 - ERROR - Email failed to send to dhananjaysinghrana29@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2e9a5f5fa84sm10330289a91.18 - gsmtp')
+2024-11-12 04:40:20,735 - ERROR - Email failed to send to shraddhatiwari317@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21177ddd675sm81183935ad.73 - gsmtp')
+2024-11-12 04:40:23,362 - ERROR - Email failed to send to skm_20042001@yahoo.co.in: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2e9a5f90ce5sm10312283a91.31 - gsmtp')
+2024-11-12 04:40:26,146 - ERROR - Email failed to send to mukesh_chouhan@live.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-72407a6c542sm10002005b3a.189 - gsmtp')
+2024-11-12 04:40:28,040 - ERROR - Email failed to send to ritesh.mourya975@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21177e58316sm81362995ad.188 - gsmtp')
+2024-11-12 04:40:30,696 - ERROR - Email failed to send to surendraps007@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21177e58dd6sm80817195ad.187 - gsmtp')
+2024-11-12 04:40:33,089 - ERROR - Email failed to send to tarunpatidar28@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2e9a5f5fa84sm10330549a91.18 - gsmtp')
+2024-11-12 04:40:37,658 - ERROR - Email failed to send to arvindpatel019@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21177e6a471sm80820205ad.233 - gsmtp')
+2024-11-12 04:40:43,669 - ERROR - Email failed to send to bgt481001@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-72407a151ddsm10033474b3a.146 - gsmtp')
+2024-11-12 04:40:46,220 - ERROR - Email failed to send to gupta.princy98@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-7f41f5cab66sm9187903a12.33 - gsmtp')
+2024-11-12 04:40:48,133 - ERROR - Email failed to send to mgoyal586@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21177e6b74bsm81073245ad.247 - gsmtp')
+2024-11-12 04:40:50,077 - ERROR - Email failed to send to padma.mitsgwl@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2e9b2bc93bcsm8088317a91.13 - gsmtp')
+2024-11-12 04:40:52,284 - ERROR - Email failed to send to 0ankitpandey01@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7240785ffb6sm9773077b3a.40 - gsmtp')
+2024-11-12 04:40:54,267 - ERROR - Email failed to send to ngroyal21@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-724078a7c1csm9719555b3a.54 - gsmtp')
