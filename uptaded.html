@@ -1,8 +1,10 @@
+<!-- This updated code includes a file input field (<input type="file" id="file" name="file">) that allows the user to select a file from their local computer. When the "Rename File" button is clicked, it calls the renameFile() JavaScript function, which gets the selected file and new name from the input fields. You'll need to integrate this with a Python script using a backend framework like Flask or Django to actually rename the file. -->
 <!DOCTYPE html>
 <html>
 <head>
 	<title>File Renamer</title>
 	<style>
+		/* Add some basic styling to make it look decent */
 		body {
 			font-family: Arial, sans-serif;
 		}
@@ -46,26 +48,26 @@
 		<h2>File Renamer</h2>
 		<form id="rename-form">
 			<div class="input-field">
-				<label for="dirPath">Directory Path:</label>
-				<input type="text" id="dirPath" name="dirPath">
+				<label for="file">Select File:</label>
+				<input type="file" id="file" name="file">
 			</div>
 			<div class="input-field">
 				<label for="newName">New Name:</label>
 				<input type="text" id="newName" name="newName">
 			</div>
-			<div class="button" onclick="renameFiles()">Rename Files</div>
+			<div class="button" onclick="renameFile()">Rename File</div>
 		</form>
 		<div id="result"></div>
 	</div>
 
 	<script>
-		function renameFiles() {
-			const dirPath = document.getElementById('dirPath').value;
+		function renameFile() {
+			const file = document.getElementById('file').files[0];
 			const newName = document.getElementById('newName').value;
 			// Call the Python script here using fetch or XMLHttpRequest
 			// For now, just display a success message
-			document.getElementById('result').innerHTML = 'Files renamed successfully!';
+			document.getElementById('result').innerHTML = 'File renamed successfully!';
 		}
 	</script>
 </body>
-</
+</html>
