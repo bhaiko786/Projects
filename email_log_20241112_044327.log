@@ -1,0 +1,23 @@
+2024-11-12 04:43:30,329 - ERROR - SMTP connection attempt 1 failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2e9a5f948a9sm9192940a91.29 - gsmtp')
+2024-11-12 04:43:37,606 - ERROR - SMTP connection attempt 2 failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21177e62dd4sm80587615ad.218 - gsmtp')
+2024-11-12 04:43:45,163 - ERROR - SMTP connection attempt 3 failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-72407a50d37sm9734096b3a.175 - gsmtp')
+2024-11-12 04:43:50,411 - ERROR - Failed to establish SMTP connection
+2024-11-12 04:43:52,419 - ERROR - SMTP Server disconnected. Attempting to reconnect...
+2024-11-12 04:43:52,419 - ERROR - Failed to establish SMTP connection
+2024-11-12 04:43:54,425 - ERROR - Failed to establish SMTP connection
+2024-11-12 04:43:56,430 - ERROR - Failed to establish SMTP connection
+2024-11-12 04:43:58,433 - ERROR - Failed to establish SMTP connection
+2024-11-12 04:44:00,439 - ERROR - Failed to establish SMTP connection
+2024-11-12 04:44:02,445 - ERROR - Failed to establish SMTP connection
+2024-11-12 04:44:04,450 - ERROR - Failed to establish SMTP connection
+2024-11-12 04:44:06,455 - ERROR - Failed to establish SMTP connection
+2024-11-12 04:44:08,460 - ERROR - Failed to establish SMTP connection
+2024-11-12 04:44:10,461 - ERROR - Failed to establish SMTP connection
+2024-11-12 04:44:12,466 - ERROR - Failed to establish SMTP connection
+2024-11-12 04:44:14,469 - ERROR - Failed to establish SMTP connection
+2024-11-12 04:44:16,475 - ERROR - Failed to establish SMTP connection
+2024-11-12 04:44:18,480 - ERROR - Failed to establish SMTP connection
+2024-11-12 04:44:20,486 - ERROR - Failed to establish SMTP connection
+2024-11-12 04:44:22,490 - ERROR - Failed to establish SMTP connection
+2024-11-12 04:44:24,496 - ERROR - Failed to establish SMTP connection
+2024-11-12 04:44:26,498 - ERROR - Failed to establish SMTP connection

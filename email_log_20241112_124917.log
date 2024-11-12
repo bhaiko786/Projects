@@ -1,0 +1,9 @@
+2024-11-12 12:49:20,052 - ERROR - SMTP connection attempt 1 failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21177e45e8fsm85024595ad.128 - gsmtp')
+2024-11-12 12:49:27,594 - ERROR - SMTP connection attempt 2 failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-724079a3b03sm10332703b3a.117 - gsmtp')
+2024-11-12 12:49:34,885 - ERROR - SMTP connection attempt 3 failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21177e418bfsm87291655ad.169 - gsmtp')
+2024-11-12 12:49:40,124 - ERROR - Failed to establish SMTP connection
+2024-11-12 12:49:42,132 - ERROR - SMTP Server disconnected. Attempting to reconnect...
+2024-11-12 12:49:42,133 - ERROR - Failed to establish SMTP connection
+2024-11-12 12:49:44,135 - ERROR - Failed to establish SMTP connection
+2024-11-12 12:49:46,138 - ERROR - Failed to establish SMTP connection
+2024-11-12 12:49:48,143 - ERROR - Failed to establish SMTP connection
