@@ -1,0 +1,81 @@
+<!-- In this updated code, I added a new div element with an ID of "download-button" that contains an anchor tag with an ID of "download-link". This anchor tag has a download attribute that specifies the filename of the downloaded file. Initially, the "download-button" div is hidden using display: none.
+When the "Rename File" button is clicked, the renameFile() function is called, which displays a success message and makes the "download-button" div visible using display: block. The href attribute of the "download-link" anchor tag is set to the URL of the renamed file (in this case, I assumed it's a PDF file named "renamed_file.pdf").
+Note that you'll need to update the href attribute to point to the actual URL of the renamed file, which will depend on your backend implementation.
+Let me know if you'd like me to help with that! -->
+<!DOCTYPE html>
+<html>
+<head>
+	<title>File Renamer</title>
+	<style>
+		/* Add some basic styling to make it look decent */
+		body {
+			font-family: Arial, sans-serif;
+		}
+		.container {
+			width: 50%;
+			margin: 40px auto;
+			padding: 20px;
+			background-color: #f0f0f0;
+			border: 1px solid #ddd;
+			border-radius: 10px;
+			box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+		}
+		.input-field {
+			margin-bottom: 20px;
+		}
+		.input-field label {
+			display: block;
+			margin-bottom: 10px;
+		}
+		.input-field input {
+			width: 100%;
+			padding: 10px;
+			border: 1px solid #ccc;
+			border-radius: 5px;
+		}
+		.button {
+			background-color: #4CAF50;
+			color: #fff;
+			padding: 10px 20px;
+			border: none;
+			border-radius: 5px;
+			cursor: pointer;
+		}
+		.button:hover {
+			background-color: #3e8e41;
+		}
+	</style>
+</head>
+<body>
+	<div class="container">
+		<h2>File Renamer</h2>
+		<form id="rename-form">
+			<div class="input-field">
+				<label for="file">Select File:</label>
+				<input type="file" id="file" name="file">
+			</div>
+			<div class="input-field">
+				<label for="newName">New Name:</label>
+				<input type="text" id="newName" name="newName">
+			</div>
+			<div class="button" onclick="renameFile()">Rename File</div>
+		</form>
+		<div id="result"></div>
+		<div id="download-button" style="display: none;">
+			<a href="#" id="download-link" download>Download Renamed File</a>
+		</div>
+	</div>
+
+	<script>
+		function renameFile() {
+			const file = document.getElementById('file').files[0];
+			const newName = document.getElementById('newName').value;
+			// Call the Python script here using fetch or XMLHttpRequest
+			// For now, just display a success message
+			document.getElementById('result').innerHTML = 'File renamed successfully!';
+			document.getElementById('download-button').style.display = 'block';
+			document.getElementById('download-link').href = 'renamed_file.pdf'; // assuming the renamed file is a PDF
+		}
+	</script>
+</body>
+</html>
