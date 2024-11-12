@@ -1,0 +1,11 @@
+Functionality:
+Note Creation: Enter title, content, and tags, then click "Save".
+Note Deletion: Select a note and click "Delete".
+Note Opening: Select a note to view its content.
+Note Closing: Click "Close" to hide the viewed note.
+Improvement Ideas:
+Implement note editing.
+Add due dates and reminders.
+Integrate tagging system.
+Implement encryption.
+Develop mobile app version.

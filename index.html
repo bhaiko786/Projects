@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RiseNote</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <h1>RiseNote</h1>
+            <ul id="note-list">
+                <!-- Notes will be listed here -->
+            </ul>
+            <button id="new-note-btn">New Note</button>
+        </div>
+        <div class="note-editor">
+            <input id="note-title" type="text" placeholder="Title">
+            <textarea id="note-content" placeholder="Content"></textarea>
+            <input id="note-tags" type="text" placeholder="Tags">
+            <button id="save-note-btn">Save</button>
+            <button id="delete-note-btn">Delete</button>
+        </div>
+        <div class="view-note">
+            <h1 id="view-note-title"></h1>
+            <p id="view-note-content"></p>
+            <button id="close-note-btn">Close</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
